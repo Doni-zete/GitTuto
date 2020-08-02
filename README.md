@@ -1,2 +1,2 @@
-# GitTuto
- Testando
+# Tutorial de Git GitHub
+ Primeiro repositorio 
